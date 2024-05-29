@@ -64,7 +64,7 @@ main {
   color: var(--clr-primary-400);
   font-size: var(--fs-500);
   font-weight: var(--fw-bold);
-  margin-bottom: 1.4785rem;
+  margin-bottom: 1rem;
 }
 
 .card__text-paragraph {
