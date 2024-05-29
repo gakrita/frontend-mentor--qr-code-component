@@ -69,4 +69,5 @@ main {
 
 .card__text-paragraph {
   color: var(--clr-primary-300);
+  font-size: 0.99rem;
 }
