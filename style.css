@@ -65,10 +65,8 @@ main {
   font-size: var(--fs-500);
   font-weight: var(--fw-bold);
   margin-bottom: 1.4785rem;
-  line-height: 1.3085;
 }
 
 .card__text-paragraph {
   color: var(--clr-primary-300);
-  font-size: 0.99rem;
 }
