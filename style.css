@@ -7,6 +7,7 @@
 
   --fs-400: 0.9375rem;
   --fs-500: 1.3375rem;
+  --fs-600: 1.4rem;
 
   --fw-normal: 400;
   --fw-bold: 700;
@@ -62,7 +63,7 @@ main {
 
 .card__text-heading {
   color: var(--clr-primary-400);
-  font-size: var(--fs-500);
+  font-size: var(--fs-600);
   font-weight: var(--fw-bold);
   margin-bottom: .7rem;
 }
